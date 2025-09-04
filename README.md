@@ -1,6 +1,7 @@
 # Character Fusion Dataset Generator
 
-A toolkit for generating synthetic text image datasets featuring character fusion and color gradient effects, supporting both Chinese characters and English words.
+A toolkit for generating synthetic text image datasets featuring character fusion and color gradient effects, supporting both Chinese characters and English words. For project "Visible Yet Unreadable: A Systematic Blind Spot of
+Vision–Language Models Across Writing Systems". 
 
 ## 🌟 Features
 
